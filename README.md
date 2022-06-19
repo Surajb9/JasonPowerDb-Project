@@ -26,3 +26,7 @@
 
 * **JSPDB Result** :
 <img width="950" alt="jspdb7" src="https://user-images.githubusercontent.com/107765690/174461915-567b52da-6efc-4a20-a985-98a188dc9048.png">
+#### Release History : 
+
+* **0.1.0**
+*   * First Stable Realease

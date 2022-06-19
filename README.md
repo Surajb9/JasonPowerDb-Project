@@ -1,9 +1,9 @@
 
 # **INTEGRATING JSPDB(JASON POWER DB)TO AN WEB APP**
 ##                                                     PROJECT ELUCIDATION :
-**"This Project Is all About how input User  Data is Captured in JasonPower DB in Real-Time from a Sample WebForm by using Inserting Small Chunks of code into the Applications Base Code by using JasonPowerDB JavaScript Library:jpdb-commons.js"**
+**"This Project Is all About how input User  Data is Captured in JasonPower DB in Real-Time from a Sample WebForm by Inserting Small Chunks of code into the Applications Base Code by using JasonPowerDB JavaScript Library:jpdb-commons.js."**
 ### WHAT IS JSON POWER DB?
-* JsonPowerDB (JPDB) is Next Generation, Creative and Disruptive Multi-mode DBMS,Database Server with Developer friendly REST API services. It's a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database
+* JsonPowerDB (JPDB) is Next Generation, Creative and Disruptive Multi-mode DBMS,Database Server with Developer friendly REST API services. It's a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database.
 ### JPDB-ADVANTAGES :
 1. Nimble, Simple to use, In Memory, Real-time DBMS.
 2. Multi-mode DBMS - Document DB, Key-Value DB, RDBMS support.
@@ -26,7 +26,10 @@
 
 * **JSPDB Result** :
 <img width="950" alt="jspdb7" src="https://user-images.githubusercontent.com/107765690/174461915-567b52da-6efc-4a20-a985-98a188dc9048.png">
-#### Release History : 
 
+**RELEASE HISTORY** 
 * **0.1.0**
-*   * First Stable Realease
+   * First Stable Release
+    
+**PROJECT STATUS**
+* This is the Basic Demo for integrating JPDB.The Complete Project Includes A fully Functional Web Application Integration with JASON_POWER_DATABASE,Which is in Development Stage.
